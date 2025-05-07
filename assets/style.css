@@ -140,13 +140,13 @@ body {
 @media (orientation: landscape) {
   .iframes iframe {
     width: calc(100% / 3);
-    height: calc(100% / 3);
+    height: calc(100% / 2);
   }
 }
 
 @media (orientation: portrait) {
   .iframes iframe {
     width: calc (100% / 2);
-    height: calc(100% / 4);
+    height: calc(100% / 3);
   }
 }
